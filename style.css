@@ -1,0 +1,18 @@
+@charset "UTF-8";
+body{
+ background-image: linear-gradient(to bottom, #7e58d6, #1c0c42);
+ height: 2600px;
+}
+#fontediferente{
+font-family: "Edu AU VIC WA NT Guides", cursive;
+color: #cfc0e6;
+}
+.titulobloco{
+font-weight: bolder;
+}
+#home{
+background-image: linear-gradient(to bottom, #2B3035, #36265a);
+}      
+.t1{
+color: #ecebec;
+}
